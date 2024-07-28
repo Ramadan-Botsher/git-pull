@@ -1,3 +1,4 @@
 *.log  # every file with .log
+test.txt # ignore the file named test.txt
 !vip.log   # execpt vip.log
 node_packs/  # ignore the folder 
